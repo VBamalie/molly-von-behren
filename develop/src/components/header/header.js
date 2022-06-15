@@ -5,7 +5,7 @@ function Header() {
     return (
         <Nav className="justify-content-end" activeKey="https://docs.google.com/document/d/1Wz7BnK9oH0mYytNLV-xblVyXeuIiS6AGLOvxF5wKeXA/edit?usp=sharing">
             <Nav.Item>
-                <Nav.Link >About</Nav.Link>
+                <Nav.Link >About Me</Nav.Link>
             </Nav.Item>
             <Nav.Item>
                 <Nav.Link >Work</Nav.Link>
