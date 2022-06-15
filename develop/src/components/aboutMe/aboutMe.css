@@ -1,0 +1,14 @@
+.molly{
+    height: 300px;
+}
+.aboutMe{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    margin: 2%;
+}
+.block-text{
+    line-height: 1.5;
+    margin-right: 15%;
+}

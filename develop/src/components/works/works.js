@@ -9,7 +9,7 @@ import { Icon } from '@iconify/react';
 
 function Work() {
   return (
-    <Carousel>
+    <Carousel className="work" id="work">
       <Carousel.Item>
         <img
           className="d-block w-100"
