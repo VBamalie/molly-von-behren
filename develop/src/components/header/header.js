@@ -14,7 +14,7 @@ function Header() {
                 <Nav.Link >Contact Me</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-                <Nav.Link href = "https://docs.google.com/document/d/1Wz7BnK9oH0mYytNLV-xblVyXeuIiS6AGLOvxF5wKeXA/edit?usp=sharing">Resume</Nav.Link>
+                <Nav.Link id="resume" href = "https://docs.google.com/document/d/1Wz7BnK9oH0mYytNLV-xblVyXeuIiS6AGLOvxF5wKeXA/edit?usp=sharing">Resume</Nav.Link>
             </Nav.Item>
         </Nav>
     )
