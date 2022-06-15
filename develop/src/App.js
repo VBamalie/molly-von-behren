@@ -6,6 +6,7 @@ import Sidebar from "./components/sidebar/sidebar";
 import Aboutme from './components/aboutMe/aboutMe';
 import Work from "./components/works/works"
 import Main from "./components/main/main"
+import Contactme from './components/contactMe/contactMe';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Main />
         <Work />
         <Aboutme />
+        <Contactme />
         </div>
       </div>
     </div>
