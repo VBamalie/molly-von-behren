@@ -1,5 +1,5 @@
 .carousel-item{
-    max-height:428px;
+    height: 95vh;
 }
 .carousel-caption{
     background-color: black;

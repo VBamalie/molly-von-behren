@@ -10,9 +10,13 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Work />
+      <div className='sidebar-container'>
       <Sidebar />
+      <div className='columns'>
+      <Work />
       <Aboutme />
+      </div>
+      </div>
     </div>
   );
 }
