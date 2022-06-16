@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/molly-von-behren/static/css/main.0212dfc0.css",
+    "main.js": "/molly-von-behren/static/js/main.9c13f07d.js",
+    "static/js/787.f6007c62.chunk.js": "/molly-von-behren/static/js/787.f6007c62.chunk.js",
+    "static/media/gitGud.png": "/molly-von-behren/static/media/gitGud.1b66be7872afc2c4ed21.png",
+    "static/media/reel.png": "/molly-von-behren/static/media/reel.499b6c44b57ae09fb02a.png",
+    "static/media/molly.JPG": "/molly-von-behren/static/media/molly.3c23d1140e40912e87c5.JPG",
+    "index.html": "/molly-von-behren/index.html",
+    "main.0212dfc0.css.map": "/molly-von-behren/static/css/main.0212dfc0.css.map",
+    "main.9c13f07d.js.map": "/molly-von-behren/static/js/main.9c13f07d.js.map",
+    "787.f6007c62.chunk.js.map": "/molly-von-behren/static/js/787.f6007c62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0212dfc0.css",
+    "static/js/main.9c13f07d.js"
+  ]
+}
