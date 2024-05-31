@@ -3,7 +3,8 @@ function Main(){
     return (
     <div className="main">
      <h1>Molly Von Behren</h1>
-     <p className="main-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p className="main-p">full-stack web developer seeking junior development  positions in software development, web development, and data science
+</p>
     </div>
     )
  }

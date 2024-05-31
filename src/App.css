@@ -6,12 +6,12 @@
 } */
 
 :root{
-    --dark: #04052E;
+    --dark: #07083a;
     --dark2: #0d0e36;
     --dark3: #12143d;
-    --mid: #C05746;
+    --mid: #e65d49;
     --accent: #44FFD2;
-    --light: #92B4F4
+    --light: #e0f2f5;
 }
 body{
     background-color: var(--dark);

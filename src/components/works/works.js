@@ -2,6 +2,7 @@ import Carousel from 'react-bootstrap/Carousel';
 
 // import Scenic from './the-scenic-route.png'
 import gitGud from './gitGud.png'
+import CCW from './CCW.png'
 import reel from './reel.png'
 
 import "./works.css"
@@ -13,16 +14,15 @@ function Work() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src={reel}
+          src={CCW}
           alt="First slide"
           
         />
         <Carousel.Caption>
-          <h3>The Scenic Route</h3>
-          <p>Find, create, and share your favorite walking and running paths</p>
-          <a href='https://github.com/ArchRascal2988/theScenicRoute'>website</a>
+          <h3>Cambridge Cloudworks</h3>
+          <p>Maintained and updated the Wordpress website</p>
+          <a href='https://cambridgecloudworks.com/'>website</a>
           <br/>
-          <a href='https://github.com/ArchRascal2988/theScenicRoute'><Icon icon="brandico:github-text" /></a>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
